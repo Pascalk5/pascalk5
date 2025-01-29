@@ -1,4 +1,4 @@
-//Declaring variable 
+//Declaring variable components
 const firstVar = "Pascal";
 const secondVar = true;
 const idStudent = false;
